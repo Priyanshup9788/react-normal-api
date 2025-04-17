@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Header from "./Components/header";
+import Header from "./Components/Header";
 import AddProduct from "./Components/AddProduct";
-import ViewProduct from "./Components/viewProduct";
+import ViewProduct from "./Components/ViewProduct";
 import UpdateProduct from "./Components/UpdateProduct";
 import Home from "./Components/Home";
 import ProductView from "./Components/ProductView";
